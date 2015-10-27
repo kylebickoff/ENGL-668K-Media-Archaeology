@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 There are six antique computers set up for you to experiment with at MITH. In this, Phase I of the Media Archaeology module, you will learn basic facts about the pedigree of each, figure out how to turn it on (not always obvious!), and perform a few simple tasks to get a feel for how it works. You will work individually for this first phase of the module, logging your activity with each machine via GitHub. (Feel free to ask a classmate for help if you’re genuinely stuck on something, but only after you’ve made an honest effort on your own.) 
 
 For the second phase of the module (to be distributed) you will work in pairs or small groups, choosing one or two computers for a more detailed exploration which may involve building or making something with its original software, and/or doing deeper historical and analytical work. 
@@ -42,56 +43,78 @@ I turned it on, asked it to list the directory contents on the disk, started up 
 APPLE IIe
 
 •	What year was it made? 
+The Apple IIe was released in January of 1983. 
 •	What operating system does it run? 
+It runs Apple DOS 3.3
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+It was originally sold for $1395. It would now sell for about $4541. They can be found on both ebay and craiglist, and can be purchased with the system and monitor and some accessories for less than $250. The computer alone could be purchased for a little over $100. 
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Apple IIe was hugely successful--it was essentially an Apple II, but with a great many add ons and upgrades preinstalled. It has SEVEN Apple II bus slots (50 pin) and an Auxiliary (60 pin) slot, which was a very popular feature. While Apple hoped that the IIc would outsellt the IIe, the IIe remained popular in large part because of these slots, and the ability to expland and install a great many more components on one's own. The lid also allows easy, instant access to the inside of the computer. The full ASCII character set and keyboard was also a major improvement, as was the ability to type in both upper and lower case letters.
+
 
 Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. (If you can beat one of my high scores on Sea Dragon you’ll get a prize. Really!)
-Funny tutorial! And interesting how one can't skip through the exercises. Although, I suppose you can choose them. I wasn't able to get onto the Sea Dragon leaderboard! It's quite a lot of noise, so I'll have to try again when it's not the AM in MITH.
+It's a funny tutorial! And interesting how one can't skip through the exercises. Although, I suppose you can choose each of them, once you make it to the navigation screen. I wasn't able to get onto the Sea Dragon leaderboard! It's quite a lot of noise to play, and I felt a bit bad playing it so loudly and repeatedly in MITH. I DID find some cheats for Sea Dragon (http://www.gamewinners.com/Cheats/index.php/Sea_Dragon_(Apple_II)), though, I didn't have much luck with them. It's always more fun to play the 'traditional' way anyways!
 ====================================================================================================================
 MACINTOSH SE
 
 •	What year was it made? 
+The Macintosh SE was released March 2, 1987. 
 •	What operating system does it run? 
+It supports and will run MAC OS 3.3–7.5.1 and 7.5.3–7.5.5.
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+Originally it cost $2900 (dual floppy) and $3900 (with 20 MB hard drive). Today, those prices are $6074 and $8168, respectively.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Macintosh SE was considered the 'low-end' of the Macintosh line and was mush less and the Macintosh II (at $5500 new), which came out in the same year. It had an internal drive bay, which could accomodate a 20MB or 40MB drive. It featured an expansion slot (SE stood for 'system expansion'), Used the Apple Desktop Bus (ADB) for keyboard and mouse control, included a cooling fan inside for active heat exchange, and claimed faster data throughput with improved SCSI support. While Apple rates SCSI on the SE at 1.25 MBps, users found that it reach approximately half of this speed. Moreover, the ROM was upgraded from 64kb to 256kb. Overall, the system is compact, includes ADB compatible keyboard and mice (now sold separately), and later SEs had a drive that supported high density floppy disks. The SE even supports color graphics, although not in the internal display! Still, it was this expansion slot that the SE remains best known for.
 
 Turn it on (you must figure out how). Read some of Deena Larsen’s Marble Springs. Quit Marble Springs. What else is on this Mac?
-Ran marble springs for a while, navigating around town. Then quite marble springs. On hereis a copy of We Descend, by Bill Bly. It is '895KB of text and graphics' and it takes quite a while to load up... Also, "Miss Sing" is on the desktop. 
+I ran marble springs for a while, navigating around town. Then I quit marble springs, and loaded a copy of We Descend, by Bill Bly, which is located on the desktop. It is '895KB of text and graphics' and it takes quite a while to load up... Also, "Miss Sing" is on the desktop, among other files. 
 
 ===================================================================================================================
 VECTREX
 
 •	What year was it made? 
+It was released in November, 1982.
 •	What operating system does it run? 
+The ROM within the Vectrex functions differently than traditional operating systems. Technically, Operating System is located at memory address $F000 to $FFFF. The system itself requires an input of some sort for functionality--when no cartridge is inserted, Space Invaders loads by default. When a cartridge is inserted, that game is immediately started by the OS that is embedded in the system's ROM. Besides the devolopmental floppy disks for software, there is not a way to access a text based form of the OS. Games could originally be programmed through CP/M systems with the Vectrex developmental software (requiring one floppy disk for Vectrex development, and another to store data). 
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+When  released in November, 1982 it sold at a retail price of $199. Then, "the price dropped to $150 and then $100 shortly before the Video Game Crash of 1983." Now, that would be equivalent to $490, $370, and $246, respectively. Now, it appears that on ebay they're selling for about $175 to 200 in working condition, and for a bit more with games included. Games sell between about $10 and $50 a piece.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Vectrex is the only vector-based home arcade system. The vectrex was unique in that it included its own built in monitor, (a vector monitor) and displayed vector graphics on this screen. Since many popular arcade games at the times used vector based graphics, after paying licensing fees, General Consumer Electronics was able to port and run many popular arcade titles of the time. It was best known for porting these popular vector graphics games. Also, it's strengths include the 'light pen,' when permitted feedback onscreen, and enabled one to 'draw' with select games and create vector based animations of their own.
 
 Turn it on (you must figure out how). Play MineStorm. Try another cartridge. Why do you think the designer’s would have opted for the “vector” graphics?
 
-I played a bit of minestorm. Pretty fun! I've played this game quite a bit before, but could only make it into level 2 this time. I really enjoy play these games on vector graphics. Two thigs--the first is, this was a comparatively affordable setup, much more so than many of the systems on these tables. Also, the graphics are particularly responsive to fast-paced gameplay, very different from the systems up here as well.
+I played a bit of Minestorm. It was pretty fun! I've played this game quite a bit before (at the MAL), but could only make it into level 2 this time. I really enjoy playing these games on vector graphics. I also played Star Trek (a show that I'm a fan of) and it was really fun. It's quite like Minestorm, except instead of playing as a 3rd person shooter, it's a first person shooter. Two thigs--the first is, this was a comparatively affordable setup, much more so than many of the systems on these tables. Also, the graphics are particularly responsive to fast-paced gameplay, very different from the systems up here as well. As I mentioned above, I believe the designers opted for Vector graphics in part, to license very popular vector-graphics based arcade games at the time. I'll also note that the response time on these fast paced games is excellent, and feels much quicker compared to a great many of the bitmapped graphics based games of the time.
 
 ===================================================================================================================
 AMIGA
 
 •	What year was it made? 
+The Commodore Amiga was released in 1985.
 •	What operating system does it run? 
+The Commodore Amiga ran AmigaOS 1.0
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+The base configuration with 256 KB of RAM was sold at a retail price of $1,295. In addition, "the 13-inch analog RGB monitor was available for around $300, bringing the price of a complete Amiga system to 1,595 USD." So,  the computer, monitor, and combined costs were, respectively, $2863, $663, and $3527. Even now, the Amiga is still fetching a price of ~$500 for a working model. They appear to be available, although in a bit limited quantity on sites such as Ebay.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Amiga was, and is, considered a system that was far ahead of its time. It ran a very powerful "16/32-bit Motorola 68000 CPU" and contained "one of the most advanced graphics and sound systems in its class." In addition it "ran a preemptive multitasking operating system that fit into 512 KB of memory." The system was also released, and promoted by the likes of Andy Warhold, and was only sold in computer stores, in order to present it as a powerful and serious computing machine. Some sources, such have Byte magazine, have called it "the first multimedia computer" and PC World has called it the "7th greatest PC of all time." Clearly, it's influence and power was hugely significant in both home computing and entertainment. 
 
 Turn it on (you must figure out how). Try the demos. What else can it do? (Hint: try the “Amiga Appetizer” disk). Have a look at the Amiga magazines and the book, The Future Was Here.
 
-I turned the system on, palyed around a bit with first running kickstart, to run wordbench. I used the lines, dots, boxes, to see the color diversity and graphics capability and stability on the system. Then I ran the appetizers and palyed with the music editor, makinga a short song, but since there are no speakers connected, I was unable to output any sound. Still, the program was quite fun!
+I turned the system on, palyed around a bit with first running kickstart, to run wordbench. I used the lines, dots, boxes, to see the color diversity and graphics capability and stability on the system. Then I ran the appetizers and played with the music editor, making a short song, but since there are no speakers connected, I was unable to output any sound. Still, the program was quite fun! Also, it was extremely easy to write a song on this system, and it was very intuitive and user friendly to do something so advanced (compared to the capabilities of computing peers of the time).
 
 ===================================================================================================================
 MACINTOSH IIci
 
 •	What year was it made? 
+The Macintosh IIci was released on September 20th, 1989.
 •	What operating system does it run? 
+It supports Mac OS(s): 6.0.5; 6.0.7; 6.0.8; 7.0; 7.0.1; 7.1; 7.1.1 (Pro); 7.5; 6.0.4; 7.5.1; 7.5.3; 7.5.5; 7.6; 7.6.1
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+The Macintosh IIci was originally sold for $6269. Now, it would sell for $12,029. Now, they appear to be selling for $60 to $100 shipped on ebay. I did not see any in the DC/Baltimore area on craiglist, but I would not be surprised if they appear. They seem to be widely available, in part I would guess because of their mass production for businesses, which likely resold many of these systems after use.
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+"The IIci was one of the most popular and longest lived Mac models of all time. For much of its lifespan, it was the business 'workhorse' of the Macintosh line." Moreo over, for a brief period in 1989 "before the introduction of the 40 MHz Macintosh IIfx, the IIci was the fastest Mac available." Not only was it a fast business machine, but it was powerful in part to support the transition from Mac OS 6 to Mac OS 7 (System 7). This was also the first 'non-all-in-one' Mac to include onboard graphics, which meant that another 'NuBus' slot was free--there were three of these slots open on the system. This permitted greater expansion, particularly useful in a powerhouse computer like this.
 
 Turn it on (you must figure out how). Open WordPerfect. Open MS Word. Try typing a simple document in each. Which do you like better, and why? Open MacPaint. Try drawing something. (You don’t need to save any of your work from these applications.) What else is on this Mac? What can you learn about its past user(s)?
 
 Both Wordperfect and MS word function MUCH more like our more contemporary word processing counterparts do. Very quick, easy to type on, MT keyboard (believe) has a much lighter response, so is easier to type quickly. The 'delete' button also permits a very quick correction, as opposed to use of error keys to either type over, or to arrow back and then press 'delete' to remove erroneous text. I admit, I find Word Perfect to be a bit nicer, perhaps becayse of its layour onscreen and the buttons available in the default layout, to work on the text. It seems (on face) easier to modify the draft layout on screen in Word perfect that in MS word. I also prefer the vertical cursor alone, that is default on Word PErfect to the additional horiztonal cursor in MS word. MS word also seems to have so many buttons up top, that the layout of the page is distorted and smaller than in Wordperfect. I've drawn some various lines in MacDraw. I've also used some of the patters to created patterned boxes and shapes across the screen. It's running hypercard, which as a very expensive piece of software. It also has the equivalent of hundreds of dollars worth of software on screen. This appears to have been owned by (and possibly still is) by UMD college park's library. There Nonprint media services, then in Hornbake's 4th floor, has a variety of files  onthe computer. Also, they have licensed much of the software on this system, which is additional reason for me to believe it has long been the propery of UMD libary's nonprint services. There are a variety of Nprint (Non print) folders on the hard rvie, with many iels that, upon opening, sort much of the hardware the is available at the university for internal use or for loan. 
+
 
